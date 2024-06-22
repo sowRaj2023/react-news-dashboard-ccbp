@@ -1,0 +1,17 @@
+.header{
+    text-align: center;
+    padding: 20px;
+    background-color: grey;
+    color: whitesmoke;
+}
+
+.heading{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+.description{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 19px;
+
+}
